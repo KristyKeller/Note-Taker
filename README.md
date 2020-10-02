@@ -15,8 +15,8 @@ Application that can be used to write, save, and delete notes. Uses an Express b
 ![gif](.gif)
 
 ## Screenshots
-![screenshot2](./Assets/Images/.PNG)
-![screenshot3](./Assets/Images/.PNG)
+![screenshot2](./Assets/Images/screenshot-2.png)
+![screenshot3](./Assets/Images/screenshot-1.png)
 
 ## Built With
 * Express
