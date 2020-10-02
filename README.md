@@ -1,5 +1,5 @@
 # 🗒 Note Taker
-### [CLICK HERE FOR APPLICATION WALK THROUGH]()
+### [CLICK HERE FOR LIVE HEROKU APPLICATION (https://note-taker-express-app.herokuapp.com/)
 
 ## User Story
 ```
