@@ -8,6 +8,10 @@
 
 * [Application Description](#application-description)
 
+* [Installation](#installation)
+
+* [Usage](#usage)
+
 * [Demo](#demo)
 
 * [Built With](#built-with)
@@ -28,6 +32,21 @@ so that I can organize my thoughts and keep track of tasks I need to complete
 ```
 ## Application Description
 Application that can be used to write, save, and delete notes. Uses an Express backend to save and retrieve note data from JSON. Made for users that need to keep track of a lot of information, allowing the user to have written information available when needed.
+
+## Installation 
+```
+npm i 
+```
+
+## Usage 
+```
+Run "node server.js" to start then navigate to a browser window to localhost:8080
+
+                                     OR
+                                     
+Use the live application via the Heroku link provided above
+
+```
 
 ## Demo
 ![gif](https://media.giphy.com/media/VJk0asokZzLH7BJl62/giphy.gif)
